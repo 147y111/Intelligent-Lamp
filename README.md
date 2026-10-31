@@ -13,3 +13,10 @@ The project was developed using Arduino IDE and Arduino C/C++. It involves photo
 ## Project Progress
 
 The hardware prototype, ambient-light detection, and automatic LED brightness control have been completed and tested. Future improvements will focus on refining the brightness-control algorithm, improving the circuit layout, and designing a complete lamp enclosure.
+
+
+## Project Demonstration
+
+![Intelligent Lamp prototype](media/intelligent-lamp-prototype.jpg)
+
+▶️ [Watch the Intelligent Lamp demonstration video](media/intelligent-lamp-demo.mp4)
