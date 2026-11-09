@@ -30,4 +30,4 @@ The hardware prototype, ambient-light detection, and automatic LED brightness co
 
 ### Demonstration
 
-<video src="media/intelligent-lamp-demo.mp4" controls width="620"></video>
+<video src="https://github.com/user-attachments/assets/f6c083d1-6b1c-4d24-aff2-504683a06791" controls width="620"></video>
